@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="x-windows-949">
+    <file url="file://$PROJECT_DIR$/src/Main.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/player/Player.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/player/노진구.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/player/도라에몽.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/player/악당/비실이.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/player/악당/악당.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/player/악당/영민이.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/player/악당/퉁퉁이.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/weapon/Weapon.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/weapon/공기포.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/weapon/빅라이트.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/weapon/빨라지는태엽.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/weapon/암기빵.java" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/src/weapon/투명망토.java" charset="x-windows-949" />
+    <file url="PROJECT" charset="x-windows-949" />
+  </component>
+</project>
